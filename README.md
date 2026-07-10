@@ -1,8 +1,6 @@
 # AI Agent Harness 工程化问题集与处理方式
 
-文档日期：2026-07-05  
-适用对象：AI Agent 平台、企业 Agent 应用、代码 Agent、浏览器 Agent、RAG Agent、多 Agent 工作流  
-核心目标：将 AI Agent 工程中的 Harness 类型、问题集与处理方式标准化，形成可用于架构评审、开发拆解、上线准入和回归测试的工程文档。
+2026-07-05  
 
 ## 1. 定义与边界
 
